@@ -1,4 +1,4 @@
-site_name: Portfolio de Luc NICOLAS
+site_name: Portfolio d'Esteban Mortier
 theme:
   name: material
   language: fr
@@ -11,10 +11,10 @@ theme:
     - navigation.tabs
     - navigation.top
 
-copyright: Copyright &copy; 2023 Luc NICOLAS 
+copyright: Copyright &copy; 2024 Esteban Mortier
   <div style="margin-left:50px;display:inline-block;">Contactez-moi:</div>
-  <a style="margin-left:5px" href="https://www.linkedin.com/in/luc-nicolas/" target=”_blank”><img src="/portfolio/img/linkedin.png" alt="linkedin.png" width="25" height="25" align="center"/></a>
-  <a style="margin-left:5px" href="https://github.com/lucnicolas/" target=”_blank”><img src="/portfolio/img/github.png" alt="github.png" width="25" height="25" align="center"/></a>
+  <a style="margin-left:5px" href="https://www.linkedin.com/in/esteban-mortier/" target=”_blank”><img src="/portfolio/img/linkedin.png" alt="linkedin.png" width="25" height="25" align="center"/></a>
+  <a style="margin-left:5px" href="https://github.com/Esteban-Mo/" target=”_blank”><img src="/portfolio/img/github.png" alt="github.png" width="25" height="25" align="center"/></a>
   <a style="margin-left:5px" href="mailto:l.nicolas@groupe-aen.info" target=”_blank”><img src="/portfolio/img/mail.png" alt="mail.png" width="28" height="28" align="center"/></a>
 
 extra:
